@@ -1,6 +1,4 @@
 # Couch_And_Lamp
- 
-# Project Description:
 -----------------------------------------------------
 This project is made for Computer graphics lab(CSE4204) we made a 3D couch and a lamb using Three.js . 
 
