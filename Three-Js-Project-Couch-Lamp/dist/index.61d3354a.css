@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  overflow: hidden;
+}
+
+#text {
+  text-align: center;
+  color: red;
+}
+
+.webgl {
+  outline: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+/*# sourceMappingURL=index.61d3354a.css.map */
