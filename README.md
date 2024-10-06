@@ -13,3 +13,10 @@ To get close to the  object: Press the UP arrow key.
 To get away from  object: Press the DOWN arrow key .  
 
 For left and Right movements, press  the left and right arrow keys respectively.
+
+#Run The Project
+-----------------------------------------------------
+Open terminal in VS Code and type the commands below: 
+
+Step 1: npm install parcel -g
+Step 2: parcel ./Three-Js-Project-Couch-Lamp/index.html
